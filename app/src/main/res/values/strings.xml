@@ -3,4 +3,5 @@
     <string name="color_spinner_bg_tv_color">Purple</string>
     <string name="color_spinner_item_tv_color">Purple</string>
     <string name="color_textView">Color:</string>
+    <string name="hex_text">#000000</string>
 </resources>

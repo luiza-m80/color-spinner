@@ -27,7 +27,7 @@
 
     <TextView
         android:textSize="22sp"
-        android:text="#000000"
+        android:text="@string/hex_text"
         android:gravity="center"
         android:textColor="@color/black"
         android:id="@+id/colorHex"
